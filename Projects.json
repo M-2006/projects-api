@@ -6,5 +6,77 @@
         "logo": "https://static.vecteezy.com/system/resources/thumbnails/022/123/561/small/weather-app-icon-outline-style-isolated-on-white-background-free-vector.jpg",
         "visitProjectLink": "https://m-2006.github.io/weather-app/",
         "downloadLink": "https://drive.google.com/uc?export=download&id=1p67fWX2nqMRMoVbQUivCdM_wx6xYUUOG"
+    },
+    {
+        "id": 2,
+        "title": "Digital Cookingbook",
+        "description": "Explore a world of culinary delights with our Digital Cookingbook. Discover a wide range of recipes, from appetizers to desserts, and bring new flavors to your kitchen.",
+        "logo": "https://static.vecteezy.com/system/resources/thumbnails/042/692/195/small/kebab-outline-illustration-digital-coloring-book-page-line-art-drawing-free-vector.jpg",
+        "visitProjectLink": "https://m-2006.github.io/digital_cookingbook",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1IiQc-7Iuq4l-9pjYwUeMcD1hvFTT1NYQ"
+    },
+    {
+        "id": 3,
+        "title": "Hisotrical Events",
+        "description": "Delve into the past with our Historical Events collection. Explore significant moments that shaped the world, from ancient civilizations to modern history.",
+        "logo": "https://static.thenounproject.com/png/5655935-200.png",
+        "visitProjectLink": "https://m-2006.github.io/historical-events",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=12Gxgn4jiPfpV6Qo_f3IxyDSufZy2DHkO"
+    },
+    {
+        "id": 4,
+        "title": "Tic - Tac - Toe - Game",
+        "description": "Enjoy the classic game of Tic-Tac-Toe with our interactive digital version. Play against a friend or challenge the computer, and test your strategy and skill in this timeless game of Xs and Os.",
+        "logo": "https://static.vecteezy.com/system/resources/thumbnails/002/423/122/small/tic-tac-toe-icon-illustration-free-vector.jpg",
+        "visitProjectLink": "https://m-2006.github.io/tic-tac-toe",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1h72bm9aAwq-2RW3yWv43Vpf7Usd-JC_g"
+    },
+    {
+        "id": 5,
+        "title": "Calculator",
+        "description": "Experience the convenience of a digital calculator with our user-friendly app. Perform basic arithmetic, complex calculations, and more with ease.",
+        "logo": "data:image/png;base64,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",
+        "visitProjectLink": "https://m-2006.github.io/calculator",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=15dne9P55Sozdq0mGf9PBFjNTXjVA7qmM"
+    },
+    {
+        "id": 6,
+        "title": "Encrypt/Decrypt App",
+        "description": "Keep your sensitive information secure with our Encrypt/Decrypt App. Encrypt text or files with ease, ensuring your data remains confidential.",
+        "logo": "https://sg-res.9appsdownloading.com/sg/res/jpg/3b/45/da5b30c28648845e8c1a3123de73-y0l1.jpg?x-oss-process=style/mq200",
+        "visitProjectLink": "https://m-2006.github.io/encryp-decrypt-app/",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=16gUcA3qhjSYujolzxq0PdI4O5NTUIrAt"
+    },
+    {
+        "id": 7,
+        "title": "Random Generaotr",
+        "description": "Get instant random results with our Random Generator app. Generate random numbers, letters, or words for games, simulations, or any other purpose.",
+        "logo": "https://www.online-stopwatch.com/images/random-number-generators.png",
+        "visitProjectLink": "https://m-2006.github.io/random-number-generator",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1HgGIrNuqiIkCMSNlcD7zC7Oge-p77B0E"
+    },
+    {
+        "id": 8,
+        "title": "Stopwatch App",
+        "description": "Track time accurately with our Stopwatch App. Whether you're timing a workout, a cooking recipe, or any other activity, our app provides precise timing features.",
+        "logo": "https://static.vecteezy.com/system/resources/thumbnails/022/034/406/small/stopwatch-stop-watch-timer-flat-icon-for-apps-and-websites-free-vector.jpg",
+        "visitProjectLink": "https://m-2006.github.io/stopwatch",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1Q4ubnnutcJu1w-0w-YgvAaKXxl62zBxx"
+    },
+    {
+        "id": 9,
+        "title": "Typography Playground",
+        "description": "Explore the world of typography with our Typography Playground. Experiment with fonts, sizes, colors, and styles to create visually stunning text designs.",
+        "logo": "https://a.silvergames.com/j/b/typing-master.jpg",
+        "visitProjectLink": "https://m-2006.github.io/typography_playground",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=191m952PS-SY0azPQhuDRh_Yv2SHYPl3K"
+    },
+    {
+        "id": 10,
+        "title": "Rock Paper Scissors Game",
+        "description": "Experience the classic game of Rock Paper Scissors in a digital format. Play against the computer or challenge a friend in this timeless battle of wits and luck",
+        "logo": "https://static.thenounproject.com/png/2699125-200.png",
+        "visitProjectLink": "https://m-2006.github.io/rock-paper-scissors",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1ZpTNdTcTc9CuIX6L48MgG1nyN-Kbfe_P"
     }
 ]
