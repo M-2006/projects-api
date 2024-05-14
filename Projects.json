@@ -78,5 +78,13 @@
         "logo": "https://static.thenounproject.com/png/2699125-200.png",
         "visitProjectLink": "https://m-2006.github.io/rock-paper-scissors",
         "downloadLink": "https://drive.google.com/uc?export=download&id=1ZpTNdTcTc9CuIX6L48MgG1nyN-Kbfe_P"
+    },
+    {
+        "id": 11,
+        "title": "Shuffeld Deck Of Cards",
+        "description": "Experience the excitement of a shuffled deck of cards in this digital app. Play your favorite card games or explore new ones with friends and family.",
+        "logo": "https://static.vecteezy.com/system/resources/thumbnails/002/937/044/small/gambling-playing-cards-in-hand-casino-luck-fortuna-shuffle-cards-vector.jpg",
+        "visitProjectLink": "https://m-2006.github.io/shuffeldCardsDeck",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1RGaHSPdEBnPP6OJkAayPZIVVyJVYshWj"
     }
 ]
