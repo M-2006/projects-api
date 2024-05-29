@@ -94,5 +94,13 @@
         "logo": "https://play-lh.googleusercontent.com/EnxJKkoXzxrmA0RA0gUie0K4gvbRLrQhpflyMzwSMvCfk2FA6o9sBLzfWtG5qLzIBIc=w240-h480-rw",
         "visitProjectLink": "https://m-2006.github.io/web-based-code-editor",
         "downloadLink": "https://drive.google.com/uc?export=download&id=1yxQysC8tVZbufHWdukMPb0GtpBtvY8we"
+    },
+    {
+        "id": 13,
+        "title": "Quiz App",
+        "description": "In this APP you can take different Quizes. Such as: Math, Science, Sports, Geography, Litertaure, ... It also with LVL's: Beginner, Intermediate, Pro..",
+        "logo": "https://miro.medium.com/v2/resize:fit:1000/1*FBRsnCP9wE84UVW1Kkv5Yw.jpeg",
+        "visitProjectLink": "https://m-2006.github.io/quiz-app",
+        "downloadLink": "https://drive.google.com/uc?export=download&id=1BavRxOF-KSVyTd97rH-9-HfvRmDMT0zp"
     }
 ]
